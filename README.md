@@ -5,7 +5,7 @@ Pytorch forecasting documentation: https://pytorch-forecasting.readthedocs.io/en
 
 Pytorch model explanations: https://pytorch-forecasting.readthedocs.io/en/latest/api/pytorch_forecasting.models.temporal_fusion_transformer.TemporalFusionTransformer.html
 
-https://pytorch-forecasting.readthedocs.io/en/latest/api/pytorch_forecasting.data.timeseries.TimeSeriesDataSet.html#pytorch_forecasting.data.timeseries.TimeSeriesDataSet
+Documentation on the function that transforms dataset to TimeSeriesDataset: https://pytorch-forecasting.readthedocs.io/en/latest/api/pytorch_forecasting.data.timeseries.TimeSeriesDataSet.html#pytorch_forecasting.data.timeseries.TimeSeriesDataSet
 
 Passing Data to a model:
 https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/building.html#passing-data
