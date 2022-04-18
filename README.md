@@ -11,3 +11,5 @@ Passing Data to a model:
 https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/building.html#passing-data
 
 Tutorial of a forecasting with the Temporal Fusion Transformer: https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
+
+Example os TFT usage: https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
